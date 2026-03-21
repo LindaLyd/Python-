@@ -1,4 +1,4 @@
-## 【os/sys/datetime/random】系统性知识点
+## os/sys/datetime/random
 
 ---
 
